@@ -15,7 +15,7 @@ const PaymentMethod = () => {
 
       <div className="payment mt-3">
         <label htmlFor="" className="d-flex align-items-center gap-2">
-          <input type="radio" /> Cheque Payment
+          <input type="radio" /> UPI
         </label>
       </div>
 
